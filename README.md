@@ -1,1 +1,2 @@
-![dante lesgo.gif](https://github.com/cloudmotol275-maker/project/blob/86d920c910da77890d8df9f6cd0e993ac5f01a69/dante%20lesgo.gif)
+<img width="640" height="360" alt="dante lesgo" src="https://github.com/user-attachments/assets/c4743f05-5038-4b57-8e16-b0623b4c6256" />
+
