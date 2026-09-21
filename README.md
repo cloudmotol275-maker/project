@@ -1,2 +1,2 @@
 
-<img width="640" height="360" alt="Image" src="https://github.com/cloudmotol275-maker-attachments/assets/825f8e50-f6c2-4cbf-997c-bcf0cd3374a7" />
+![Banner](https://github.com/cloudmotol275-maker/project/blob/53ae17a456f6aa7d5293bcb69f506a299c9e2a8f/dante%20lesgo.gif)
